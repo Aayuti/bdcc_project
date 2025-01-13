@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BDCC cia 1 project 
 
 ## Objective: Perform a comparitive study of python performance and with parallelization 
@@ -32,3 +33,6 @@ Various mini scripts were used to demo this that can be found in their respectiv
 
 The final section looks at and explains how the BigO notation is effected by multithreaded operations and parallelization 
 
+=======
+# bdcc_project
+>>>>>>> 420c2a41d9e74a0331ebc337f1880c62d6bb9a1c
